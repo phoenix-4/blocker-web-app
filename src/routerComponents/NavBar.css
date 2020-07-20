@@ -1,0 +1,18 @@
+p{
+    color: #023d47;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#navbarNavAltMarkup{
+    height: 60px;
+}
+
+#logoPearson {
+    margin-top: -40%;
+    width: 80px;
+    height: 100px;
+    margin-left: 10%;
+}
+
